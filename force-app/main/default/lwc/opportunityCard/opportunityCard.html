@@ -1,0 +1,10 @@
+<template>
+    <lightning-card title={name} if:true={opportunity.data} variant="narrow" >
+        <lightning-layout multiple-rows="true">
+            <lightning-layout-item size="6" padding="horizontal-small">{account}</lightning-layout-item>
+            <lightning-layout-item size="6" padding="horizontal-small">{stage}</lightning-layout-item>
+            <lightning-layout-item size="6" padding="horizontal-small">{expectedRevenue}</lightning-layout-item>
+            <lightning-layout-item size="6" padding="horizontal-small">{quantity}</lightning-layout-item>
+        </lightning-layout>
+    </lightning-card>
+</template>

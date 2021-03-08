@@ -1,0 +1,77 @@
+{
+  "serverMaxRevisionCounter": 136,
+  "sourceMembers": {
+    "PlatformEventChannelMember__ChangeEvents_OpportunityChangeEvent": {
+      "serverRevisionCounter": 2,
+      "lastRetrievedFromServer": 2,
+      "memberType": "PlatformEventChannelMember",
+      "isNameObsolete": false
+    },
+    "Profile__Admin": {
+      "serverRevisionCounter": 39,
+      "lastRetrievedFromServer": 39,
+      "memberType": "Profile",
+      "isNameObsolete": false
+    },
+    "ApexClass__LTN_TopOpportunities": {
+      "serverRevisionCounter": 40,
+      "lastRetrievedFromServer": 40,
+      "memberType": "ApexClass",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__opportunityCard": {
+      "serverRevisionCounter": 133,
+      "lastRetrievedFromServer": 133,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentBundle__topOpportunities": {
+      "serverRevisionCounter": 81,
+      "lastRetrievedFromServer": 81,
+      "memberType": "LightningComponentBundle",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__topOpportunities/topOpportunities.js-meta.xml": {
+      "serverRevisionCounter": 82,
+      "lastRetrievedFromServer": 82,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__topOpportunities/topOpportunities.html": {
+      "serverRevisionCounter": 83,
+      "lastRetrievedFromServer": 83,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__topOpportunities/topOpportunities.js": {
+      "serverRevisionCounter": 84,
+      "lastRetrievedFromServer": 84,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__opportunityCard/opportunityCard.html": {
+      "serverRevisionCounter": 134,
+      "lastRetrievedFromServer": 134,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__opportunityCard/opportunityCard.js": {
+      "serverRevisionCounter": 135,
+      "lastRetrievedFromServer": 135,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "LightningComponentResource__opportunityCard/opportunityCard.js-meta.xml": {
+      "serverRevisionCounter": 136,
+      "lastRetrievedFromServer": 136,
+      "memberType": "LightningComponentResource",
+      "isNameObsolete": false
+    },
+    "FlexiPage__Home_Page_Default": {
+      "serverRevisionCounter": 30,
+      "lastRetrievedFromServer": null,
+      "memberType": "FlexiPage",
+      "isNameObsolete": false
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<template>
+    <lightning-card>
+        <span slot="title">Top Opportunities <span if:true={opportunities.data}>({opportunities.data.length})</span></span>
+        <template for:each={orderedOpportunities} for:item="opportunityId">
+            <c-opportunity-card record-id={opportunityId} key={opportunityId}></c-opportunity-card>
+        </template>
+        {error}
+    </lightning-card>
+</template>
